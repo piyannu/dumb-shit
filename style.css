@@ -1,0 +1,161 @@
+@media(min-width: 666px) {}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641093872_1-abrakadabra-fun-p-nezhno-rozovoe-nebo-2.jpg);
+    background-repeat: no-repeat;
+}
+
+img {
+
+    width: 32.8%;
+    height: 300px;
+
+
+
+}
+
+header {
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641093872_1-abrakadabra-fun-p-nezhno-rozovoe-nebo-2.jpg);
+    background-position: 70% 10%;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid salmon;
+}
+
+header h1 {
+    text-align: left;
+    text-indent: 1em;
+}
+
+header p {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+strong {
+    color: salmon;
+}
+
+.green {
+    color: rgb(128, 0, 43);
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid rgb(252, 252, 252);
+    padding: 0.5em;
+    border-radius: 20px;
+    display: block;
+    background-color: rgba(250, 128, 114, 0.5);
+    margin: auto;
+    width: 150px;
+    text-align: center;
+
+}
+
+a:hover {
+    color: salmon;
+    text-decoration: none;
+    border: 2px solid;
+    padding: 0.5em;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    width: 150px;
+    text-align: center;
+
+
+
+}
+
+form {
+    line-height: 2em;
+    text-align: center;
+    border: 2px solid salmon;
+    width: 400px;
+    margin: auto;
+    border-radius: 50px;
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641093872_1-abrakadabra-fun-p-nezhno-rozovoe-nebo-2.jpg);
+    background-position: 10% 70%;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid rgb(252, 252, 252);
+    padding: 0.5em;
+    border-radius: 20px;
+    background-color: rgba(250, 128, 114, 0.5);
+    margin: 0.5em;
+
+}
+
+button:hover {
+    color: salmon;
+    text-decoration: none;
+    border: 2px solid;
+    padding: 0.5em;
+    border-radius: 20px;
+    background-color: antiquewhite;
+
+}
+
+::placeholder {
+    font-size: .7rem;
+    text-align: center;
+    color: rgba(250, 128, 114, 0.6);
+
+}
+
+hr {
+    margin-top: 2em;
+    background-color: salmon;
+    color: salmon;
+    border: 1px solid salmon;
+
+}
+
+input {
+    border-radius: 20px;
+    background-color: antiquewhite;
+    color: salmon;
+    border: 2px solid salmon;
+
+
+}
+
+picture {
+    display: block;
+    margin: auto;
+    border-radius: 200px;
+    border: 10px solid salmon;
+    width: 900px;
+    min-width: 650px;
+    background-color: salmon;
+
+}
+
+.p1 {
+    border-radius: 200px 0 0 200px;
+}
+
+.p3 {
+    border-radius: 0 200px 200px 0;
+}
+
+.top {
+    display: block;
+    margin: auto;
+    text-align: center;
+margin: 5px 1px 5px 0;
+}
+span {
+    color:goldenrod;
+}
